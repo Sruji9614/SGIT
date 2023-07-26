@@ -12,7 +12,7 @@ public class Largesmallestdiff {
         }
         System.out.println(Arrays.toString(arr));
         int largeDiff = Integer.MIN_VALUE;
-        int smallDiff = Integer.MAX_VALUE;
+    int smallDiff = Integer.MAX_VALUE;A
         for (int i = 0; i < arr.length - 1; i++) {
             for (int j = i + 1; j < arr.length; j++) {
                 int diff = Math.abs(arr[i] - arr[j]);
