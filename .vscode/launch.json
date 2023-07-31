@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sumofupperandlowertriangle",
+            "request": "launch",
+            "mainClass": "Sumofupperandlowertriangle",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
+            "name": "Meanandmedian",
+            "request": "launch",
+            "mainClass": "Meanandmedian",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
             "name": "Bubbesort",
             "request": "launch",
             "mainClass": "Bubbesort",

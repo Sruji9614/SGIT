@@ -29,7 +29,7 @@ public class EvenOddPrime8
       int var2 = var1.nextInt();
       if (isEven(var2)) {
          System.out.println("" + var2 + "is Even");
-      } else {
+      } else { 
          System.out.println("" + var2 + "is Odd");
       }
 
