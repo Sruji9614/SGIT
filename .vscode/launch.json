@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StudentRecordProcessing",
+            "request": "launch",
+            "mainClass": "StudentRecordProcessing",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
+            "name": "Largesmallestdiff",
+            "request": "launch",
+            "mainClass": "Largesmallestdiff",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
+            "name": "Radixsort",
+            "request": "launch",
+            "mainClass": "Radixsort",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
             "name": "Sumofupperandlowertriangle",
             "request": "launch",
             "mainClass": "Sumofupperandlowertriangle",
