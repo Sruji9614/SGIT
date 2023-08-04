@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinaryTree",
+            "request": "launch",
+            "mainClass": "BinaryTree",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
             "name": "StudentRecordProcessing",
             "request": "launch",
             "mainClass": "StudentRecordProcessing",
