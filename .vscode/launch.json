@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Macrowitharguments",
+            "request": "launch",
+            "mainClass": "Macrowitharguments",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
+            "name": "NestedMacros",
+            "request": "launch",
+            "mainClass": "NestedMacros",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
+            "name": "MacroSubstitutionDemo",
+            "request": "launch",
+            "mainClass": "MacroSubstitutionDemo",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
+            "name": "TypeCasting",
+            "request": "launch",
+            "mainClass": "TypeCasting",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "Break",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
             "name": "BinaryTree",
             "request": "launch",
             "mainClass": "BinaryTree",
