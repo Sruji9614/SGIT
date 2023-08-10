@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalindromeCheck",
+            "request": "launch",
+            "mainClass": "PalindromeCheck",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
             "name": "Macrowitharguments",
             "request": "launch",
             "mainClass": "Macrowitharguments",
