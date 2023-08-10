@@ -13,7 +13,8 @@ public class PalindromeCheck
         }
     }
     
-    public static boolean isPalindrome(int num) {
+    public static boolean isPalindrome(int num) 
+    {
         int originalNumber = num;
         int reversedNumber = 0;
         
