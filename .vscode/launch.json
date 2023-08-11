@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HelicalMatrixTraversal",
+            "request": "launch",
+            "mainClass": "HelicalMatrixTraversal",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
+            "name": "NonDiagonalSum",
+            "request": "launch",
+            "mainClass": "NonDiagonalSum",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
+            "name": "MatrixSum",
+            "request": "launch",
+            "mainClass": "MatrixSum",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
+            "name": "MatrixNorm",
+            "request": "launch",
+            "mainClass": "MatrixNorm",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
+            "name": "MatrixTrace",
+            "request": "launch",
+            "mainClass": "MatrixTrace",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
+            "name": "MatrixSubstraction",
+            "request": "launch",
+            "mainClass": "MatrixSubstraction",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
+            "name": "MatrixAddition",
+            "request": "launch",
+            "mainClass": "MatrixAddition",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
+            "name": "RecursiveSum",
+            "request": "launch",
+            "mainClass": "RecursiveSum",
+            "projectName": "sgrit_eab23770"
+        },
+        {
+            "type": "java",
             "name": "PalindromeCheck",
             "request": "launch",
             "mainClass": "PalindromeCheck",
