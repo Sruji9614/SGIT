@@ -10,6 +10,7 @@ public class StringPalindromeCheck
         } 
         else
          {
+            
             System.out.println(inputString + " is not a palindrome.");
         }
     }

@@ -2,6 +2,7 @@ public class CountCharacters
 {
     public static void main(String[] args) 
     {
+        
         String inputString = "Srujith Maddiboyina";
         int vowelsCount = 0;
         int consonantsCount = 0;
