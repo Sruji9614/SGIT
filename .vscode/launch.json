@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringPalindromeCheck",
+            "request": "launch",
+            "mainClass": "StringPalindromeCheck",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "CountCharacters",
+            "request": "launch",
+            "mainClass": "CountCharacters",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "NumberToWords",
+            "request": "launch",
+            "mainClass": "NumberToWords",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "LowerCaseToUpperCase",
+            "request": "launch",
+            "mainClass": "LowerCaseToUpperCase",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "UppercaseToLowerCase",
+            "request": "launch",
+            "mainClass": "UppercaseToLowerCase",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
             "name": "HelicalMatrixTraversal",
             "request": "launch",
             "mainClass": "HelicalMatrixTraversal",
