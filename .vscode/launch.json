@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InfixToPostfixConverter",
+            "request": "launch",
+            "mainClass": "InfixToPostfixConverter",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "StackUsingLinkedList",
+            "request": "launch",
+            "mainClass": "StackUsingLinkedList",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "StackUsingArray",
+            "request": "launch",
+            "mainClass": "StackUsingArray",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
             "name": "StringPalindromeCheck",
             "request": "launch",
             "mainClass": "StringPalindromeCheck",
