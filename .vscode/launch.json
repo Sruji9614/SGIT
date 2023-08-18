@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DisplayStackContents",
+            "request": "launch",
+            "mainClass": "DisplayStackContents",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "PostfixEvaluator",
+            "request": "launch",
+            "mainClass": "PostfixEvaluator",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
             "name": "InfixToPostfixConverter",
             "request": "launch",
             "mainClass": "InfixToPostfixConverter",
