@@ -1,4 +1,8 @@
- int findMax() {
+public class Node
+{
+    public static void main(String[] args) 
+    {
+         int findMax() {
         if (head == null) {
             throw new IllegalStateException("The linked list is empty.");
         }
@@ -37,11 +41,6 @@ int findMin()
         return min;
 }
 
-
-public class Node
-{
-    public static void main(String[] args) 
-    {
         LinkedList linkedList = new LinkedList();
         linkedList.insert(10);
         linkedList.insert(5);
