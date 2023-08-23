@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TimeConversion",
+            "request": "launch",
+            "mainClass": "TimeConversion",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "SumOfAnArray",
+            "request": "launch",
+            "mainClass": "SumOfAnArray",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "TimeFormat",
+            "request": "launch",
+            "mainClass": "TimeFormat",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "PolynomialAdditionUsingArray",
+            "request": "launch",
+            "mainClass": "PolynomialAdditionUsingArray",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "PolynomialAddition",
+            "request": "launch",
+            "mainClass": "PolynomialAddition",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "MultiplePrecisionFloatArithmetic",
+            "request": "launch",
+            "mainClass": "MultiplePrecisionFloatArithmetic",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "MultiplePrecisionArithmetic",
+            "request": "launch",
+            "mainClass": "MultiplePrecisionArithmetic",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
             "name": "DisplayStackContents",
             "request": "launch",
             "mainClass": "DisplayStackContents",
