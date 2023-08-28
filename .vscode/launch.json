@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MagicSquare",
+            "request": "launch",
+            "mainClass": "MagicSquare",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "TriangleMatrixPrinter",
+            "request": "launch",
+            "mainClass": "TriangleMatrixPrinter",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "SymmetricMatrixChecker",
+            "request": "launch",
+            "mainClass": "SymmetricMatrixChecker",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "MatrixRankCalculator",
+            "request": "launch",
+            "mainClass": "MatrixRankCalculator",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
             "name": "TimeConversion",
             "request": "launch",
             "mainClass": "TimeConversion",
