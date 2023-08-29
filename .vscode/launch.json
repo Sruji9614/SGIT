@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "ExpressionTreeEvaluator",
+            "request": "launch",
+            "mainClass": "ExpressionTreeEvaluator",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
             "name": "MagicSquare",
             "request": "launch",
             "mainClass": "MagicSquare",
