@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DeleteVector",
+            "request": "launch",
+            "mainClass": "DeleteVector",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "Vectorinsertion",
+            "request": "launch",
+            "mainClass": "Vectorinsertion",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "ATM",
+            "request": "launch",
+            "mainClass": "ATM",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "StringReversal",
+            "request": "launch",
+            "mainClass": "StringReversal",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
+            "name": "EightQueens",
+            "request": "launch",
+            "mainClass": "EightQueens",
+            "projectName": "SGIT_55666d89"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
